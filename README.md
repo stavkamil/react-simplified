@@ -1,7 +1,3 @@
-Certainly, here's an updated README with the changes you requested:
-
----
-
 # React Simplified
 
 **Simplified React Core Mechanisms Illustration**
